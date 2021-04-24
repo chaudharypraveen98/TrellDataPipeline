@@ -1,0 +1,2 @@
+## Trell Scraper
+This the scraper built on the top of the requests library. We are using RestAPI to make faster requests. We are delaying the request randomly by 1 to 5 seconds to make ensure that the server don't trothle.
